@@ -1,0 +1,122 @@
+#mainHeader {
+    height: 135px;
+
+}
+#mainHeader h1 img {
+    height: 80px;
+    padding-left: 20px;
+}
+
+#mainHeader h1 span {
+    font-size: 65px;
+    padding-left: 20px;
+    color: chocolate;
+}
+#mainNav {
+    height: 70px;
+    border: 1px solid;
+    background-color: black;
+}
+#mainNav ul {
+
+    height: 40px;
+
+    padding-top: 20px;
+}
+#mainNav ul li {
+
+    background-color: red;
+    display: inline;
+    margin: 5px 10px 5px 0px;
+    padding: 20px;
+
+    padding-bottom: 10px;
+}
+#mainNav a {
+    color: black;
+    font-size: 18px;
+    text-decoration: none;
+
+}
+li a.active {
+    background-color: yellow;
+}
+#mainDiv img {
+    height: 140px;
+    width: 1200px;
+    padding-left: 20px;
+
+}
+address {
+    height: 10px;
+
+
+}
+#mainArticle {
+    background-color: lightpink;
+    font-size: 20px;
+}
+#mainFooter h6 img  {
+    height: 70px;
+}
+#mainFooter h6 {
+    margin-left: 650px;
+    font-size: 20px;
+    display: inline-block;
+    color: chocolate;
+}
+
+#mainFooter {
+    border: 1px solid;
+    height: 280px;
+}
+#mainArticle    {
+    width: 1200px;
+    margin-left: 20px;
+}
+body {
+    background-color: black;
+}
+h2  {
+ padding-left: 500px;
+    color: rebeccapurple;
+}
+p2  {
+    padding-left: 6px;
+    color: rebeccapurple;
+
+}
+#civilizationdata   {
+    width: 400px;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+#civilizationdata p3, p4 {
+    margin-top: 30px;
+}
+#civilizationimg {
+    width: 700px;
+    display: inline-block;
+    margin-left: 50px;
+
+}
+#civilizationimg img {
+    width: 650px;
+    height: 300px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+#mainFooter h5, #mainFooter p8 {
+    color: orange;
+}
+#footerinfo {
+    width: 400px;
+    display: inline-block;
+    margin-left: 20px;
+}
+#footerheading  {
+    width: 400px;
+    display: inline-block;
+}
