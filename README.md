@@ -7,23 +7,23 @@ styling, resulting in a visually appealing and user-friendly website.
 
 **Key Features:**
 
-2. **Interactive Navigation:**
+1. **Interactive Navigation:**
    - A user-friendly navigation system is implemented, allowing seamless exploration of different sections of the website.
    - Navigation menus, buttons, or other interactive elements enhance the user experience.
 
-3. **Content Organization:**
+2. **Content Organization:**
    - The content is structured logically using HTML, with a clear hierarchy of sections and pages. This includes headers,
      footers, and organized content blocks to improve readability and accessibility.
 
-4. **Stylish Layouts:**
+3. **Stylish Layouts:**
    - CSS is utilized to style the website, providing aesthetically pleasing layouts, color schemes, and typography. Consistent
      styling enhances the visual coherence of the website.
 
-5. **Multimedia Integration:**
+4. **Multimedia Integration:**
    - The project incorporates multimedia elements such as images, videos, or interactive components to engage users and enhance
      the overall presentation.
 
-9. **External Resources:**
+5. **External Resources:**
    - External resources, such as CSS frameworks or libraries, may be used to enhance the website's functionality or styling,
      demonstrating an understanding of leveraging external tools.
 
